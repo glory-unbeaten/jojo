@@ -11,4 +11,5 @@
 ### 项目完整研究报告
 [课程项目报告-基于医疗行业的行业研究报告与新闻资讯文本研究差异分析.pdf](https://github.com/glory-unbeaten/jojo/files/12083033/-._.%2B.pdf)
 
-### 项目代码（部分）
+### 项目代码
+[CTA项目报告.zip](https://github.com/glory-unbeaten/jojo/files/12083134/CTA.zip)
