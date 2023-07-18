@@ -1,5 +1,6 @@
 # jojo
 # 基于医疗行业的行业研究报告与新闻资讯文本研究差异分析
+# Difference analysis of industry research report and news information text research based on medical industry
 / 《计算文本分析》课程论文
 ---
 企业、行研团队、新闻媒体和普通用户四类主体对于同一事件的关注度和情绪反应会有所不同；
